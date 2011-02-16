@@ -1,7 +1,7 @@
 require 'jeweler'
 
 Jeweler::Tasks.new do |s|
-	s.name = "stalker"
+	s.name = "psyho-stalker"
 	s.summary = "A job queueing and background workers system using Beanstalkd."
 	s.description = "A job queueing and background workers system using Beanstalkd.  Inspired by the Minion gem."
 	s.author = "Adam Wiggins"
